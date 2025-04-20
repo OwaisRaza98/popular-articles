@@ -1,0 +1,18 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "title": "Test Article 1",
+      "abstract": "This is test abstract 1",
+      "media": [{"media-metadata": [{"url": "test1.jpg"}]}],
+      "url": "https://www.nytimes.com/2025/04/17/us/politics/lisa-murkowski-trump.html"
+    },
+    {
+      "id": 2,
+      "title": "Test Article 2",
+      "abstract": "This is test abstract 2",
+      "media": [{"media-metadata": [{"url": "test2.jpg"}]}],
+      "url": "https://www.nytimes.com/2025/04/17/us/politics/lisa-murkowski-trump.html"
+    }
+  ]
+}
